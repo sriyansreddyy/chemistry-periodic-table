@@ -1,0 +1,335 @@
+html, body{
+  background-color: #f4d03f;
+}
+
+u{
+  text-decoration: none;
+  color: #1b2631;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  box-shadow: inset 0 -0.12em 0 #f00;
+}
+
+.heading-wrapper{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  text-align: center;
+  color: #1b2631;
+}
+
+ .hydrogen{
+  background-color: #148f77;
+  color: #FFFFFF;
+}
+
+.hydrogen:hover{
+  box-shadow: inset 0 -0.12em 0 #FFFFFF;
+  -webkit-transition: box-shadow .2s ease-in-out, color .2s ease-in-out;
+  transition: box-shadow .2s ease-in-out, color .2s ease-in-out;
+  -webkit-box-shadow: inset 0 50px 0  #FFFFFF;
+  color: #000;
+}
+
+.alkali-metals{
+  background-color: #C0392B;
+  color: #FFFFFF;
+}
+
+.alkali-metals:hover{
+  box-shadow: inset 0 -0.12em 0 #FFFFFF;
+  -webkit-transition: box-shadow .2s ease-in-out, color .2s ease-in-out;
+  transition: box-shadow .2s ease-in-out, color .2s ease-in-out;
+  -webkit-box-shadow: inset 0 50px 0  #FFFFFF;
+  color: #000;
+}
+
+.alkaline-earth-metals{
+  background-color: #CD6155;
+  color: #FFFFFF;
+}
+
+.alkaline-earth-metals:hover{
+  box-shadow: inset 0 -0.12em 0 #FFFFFF;
+  -webkit-transition: box-shadow .2s ease-in-out, color .2s ease-in-out;
+  transition: box-shadow .2s ease-in-out, color .2s ease-in-out;
+  -webkit-box-shadow: inset 0 50px 0  #FFFFFF;
+  color: #000;
+}
+
+.halogens{
+  background-color: #1abc9c;
+  color: #FFFFFF;
+}
+
+.halogens:hover{
+  box-shadow: inset 0 -0.12em 0 #FFFFFF;
+  -webkit-transition: box-shadow .2s ease-in-out, color .2s ease-in-out;
+  transition: box-shadow .2s ease-in-out, color .2s ease-in-out;
+  -webkit-box-shadow: inset 0 50px 0 #FFFFFF;
+  color: #000;
+}
+
+.noble-gases-wrapper{
+  background-color:  #808b96; 
+  color: #FFFFFF;
+}
+
+.noble-gases-wrapper:hover{
+  box-shadow: inset 0 -0.12em 0 #FFFFFF;
+  -webkit-transition: box-shadow .2s ease-in-out, color .2s ease-in-out;
+  transition: box-shadow .2s ease-in-out, color .2s ease-in-out;
+  -webkit-box-shadow: inset 0 50px 0  #FFFFFF;
+  color: #000;
+}
+
+.non-metals{
+  background-color: #2E4053;
+  color: #FFFFFF;
+}
+
+.non-metals:hover{
+  box-shadow: inset 0 -0.12em 0 #FFFFFF;
+  -webkit-transition: box-shadow .2s ease-in-out, color .2s ease-in-out;
+  transition: box-shadow .2s ease-in-out, color .2s ease-in-out;
+  -webkit-box-shadow: inset 0 50px 0 #FFFFFF;
+  color: #000;
+}
+
+.metalloids{
+  background-color: #512E5F;
+  color: #FFFFFF;
+}
+
+.metalloids:hover{
+  box-shadow: inset 0 -0.12em 0 #FFFFFF;
+  -webkit-transition: box-shadow .2s ease-in-out, color .2s ease-in-out;
+  transition: box-shadow .2s ease-in-out, color .2s ease-in-out;
+  -webkit-box-shadow: inset 0 50px 0 #FFFFFF;
+  color: #000;
+}
+
+.weak-metals{
+  background-color: #641E16;
+  color: #FFFFFF;
+}
+
+.weak-metals:hover{
+  box-shadow: inset 0 -0.12em 0 #FFFFFF;
+  -webkit-transition: box-shadow .2s ease-in-out, color .2s ease-in-out;
+  transition: box-shadow .2s ease-in-out, color .2s ease-in-out;
+  -webkit-box-shadow: inset 0 50px 0 #FFFFFF;
+  color: #000;
+}
+
+.rare-earth{
+  background-color: #873600;
+  color: #FFFFFF;
+}
+
+.rare-earth:hover{
+  box-shadow: inset 0 -0.12em 0 #FFFFFF;
+  -webkit-transition: box-shadow .2s ease-in-out, color .2s ease-in-out;
+  transition: box-shadow .2s ease-in-out, color .2s ease-in-out;
+  -webkit-box-shadow: inset 0 50px 0 #FFFFFF;
+  color: #000;
+}
+
+.radioactive{
+  background-color: #145A32;
+  color: #FFFFFF;
+}
+
+.radioactive:hover{
+  box-shadow: inset 0 -0.12em 0 #FFFFFF;
+  -webkit-transition: box-shadow .2s ease-in-out, color .2s ease-in-out;
+  transition: box-shadow .2s ease-in-out, color .2s ease-in-out;
+  -webkit-box-shadow: inset 0 50px 0 #FFFFFF;
+  color: #000;
+}
+
+.heavy-metals{
+  background-color: #2E86C1;
+  color: #FFFFFF;
+}
+
+.heavy-metals:hover{
+  box-shadow: inset 0 -0.12em 0 #FFFFFF;
+  -webkit-transition: box-shadow .2s ease-in-out, color .2s ease-in-out;
+  transition: box-shadow .2s ease-in-out, color .2s ease-in-out;
+  -webkit-box-shadow: inset 0 50px 0 #FFFFFF;
+  color: #000;
+}
+
+.alkali-metals1{
+  background-color: #C0392B;
+  color: #FFFFFF;
+}
+
+.alkaline-earth-metals1{
+  background-color: #CD6155;
+  color: #FFFFFF;
+}
+
+.heavy-metals1{
+  background-color: #2E86C1;
+  color: #FFFFFF;
+}
+
+.weak-metals1{
+  background-color: #641E16;
+  color: #FFFFFF;
+}
+
+.metalloids1{
+  background-color: #512E5F;
+  color: #FFFFFF;
+}
+
+.non-metals1{
+  background-color: #2E4053;
+  color: #FFFFFF;
+}
+
+.halogens1{
+  background-color: #1abc9c;
+  color: #FFFFFF;
+}
+
+.noble-gases-wrapper1{
+  background-color: #808b96;
+  color: #FFFFFF;
+}
+
+.radioactive1{
+  background-color: #145A32;
+  color: #FFFFFF;
+}
+
+.rare-earth1{
+  background-color: #873600;
+  color: #FFFFFF;
+}
+
+
+table  {
+    font-family: "Lato", sans-serif;
+    font-size: 0.9em;
+    -webkit-border-horizontal-spacing: 0px;
+    -webkit-border-vertical-spacing: 0px;
+    line-height: 1.4em;
+}
+
+.table2{
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.table3{
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+.copyright-wrapper{
+  text-align: center;
+  color: black;
+  font-family: "Lato";
+}
+
+[data-tooltip] {
+    position: relative;
+    cursor: pointer;
+  }
+  [data-tooltip]:before,
+  [data-tooltip]:after {
+    line-height: 1;
+    font-size: 1em;
+    pointer-events: none;
+    position: absolute;
+    box-sizing: border-box;
+    display: none;
+    opacity: 0;
+  }
+  [data-tooltip]:before {
+    content: "";
+    border: 5px solid transparent;
+    z-index: 100;
+  }
+  [data-tooltip]:after {
+    content: attr(data-tooltip);
+    text-align: center;
+    min-width: 15em;
+    max-width: none;
+    overflow: hidden;
+    display: inline-block;
+    overflow: auto;
+    padding: 6px 8px;
+    border-radius: 3px;
+    background: #4621FF;
+    color: #FFFFFF;
+    z-index: 99;
+  }
+  [data-tooltip]:hover:before,
+  [data-tooltip]:hover:after {
+    display: block;
+    opacity: 1;
+  }
+  [data-tooltip]:not([data-flow])::before,
+  [data-tooltip][data-flow="top"]::before {
+    bottom: 100%;
+    border-bottom-width: 0;
+    border-top-color: #4621FF;
+  }
+  [data-tooltip]:not([data-flow])::after,
+  [data-tooltip][data-flow="top"]::after {
+    bottom: calc(100% + 5px);
+  }
+  [data-tooltip]:not([data-flow])::before, [tooltip]:not([data-flow])::after,
+  [data-tooltip][data-flow="top"]::before,
+  [data-tooltip][data-flow="top"]::after {
+    left: 50%;
+    -webkit-transform: translate(-50%, -4px);
+            transform: translate(-50%, -4px);
+  }
+  [data-tooltip][data-flow="bottom"]::before {
+    top: 100%;
+    border-top-width: 0;
+    border-bottom-color: #4621FF;
+  }
+  [data-tooltip][data-flow="bottom"]::after {
+    top: calc(100% + 5px);
+  }
+  [data-tooltip][data-flow="bottom"]::before, [data-tooltip][data-flow="bottom"]::after {
+    left: 50%;
+    -webkit-transform: translate(-50%, 8px);
+            transform: translate(-50%, 8px);
+  }
+  [data-tooltip][data-flow="left"]::before {
+    top: 50%;
+    border-right-width: 0;
+    border-left-color: #4621FF;
+    left: calc(0em - 5px);
+    -webkit-transform: translate(-8px, -50%);
+            transform: translate(-8px, -50%);
+  }
+  [data-tooltip][data-flow="left"]::after {
+    top: 50%;
+    right: calc(100% + 5px);
+    -webkit-transform: translate(-8px, -50%);
+            transform: translate(-8px, -50%);
+  }
+  [data-tooltip][data-flow="right"]::before {
+    top: 50%;
+    border-left-width: 0;
+    border-right-color: #4621FF;
+    right: calc(0em - 5px);
+    -webkit-transform: translate(8px, -50%);
+            transform: translate(8px, -50%);
+  }
+  [data-tooltip][data-flow="right"]::after {
+    top: 50%;
+    left: calc(100% + 5px);
+    -webkit-transform: translate(8px, -50%);
+            transform: translate(8px, -50%);
+  }
+  [data-tooltip=""]::after, [data-tooltip=""]::before {
+    display: none !important;
+  }
+  
