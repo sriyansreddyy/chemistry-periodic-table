@@ -3,3 +3,6 @@
 - To know more about an element, hover over the atomic number or the name of the element. The info will be displayed.
 # Acknowledgements
 - A few friends from the Scrimba Discord Commnunity.
+# Live Version  
+- Link to deployed website
+  - https://sriyansreddyy.github.io/chemistry-periodic-table/
